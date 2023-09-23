@@ -57,6 +57,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+<<<<<<< HEAD
 		
 		
 		<!-- https://mvnrepository.com/artifact/itext/itext -->
@@ -69,6 +70,12 @@
 		
 		
 		
+=======
+
+    
+    
+    
+>>>>>>> 4e60de23b5ed3aee044f363f4101e37c8779b82d
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-jasper</artifactId>
